@@ -20,3 +20,5 @@ Kevin Ngo
 Evan LaFollette
 Kelly Thompson 
 Audra Kosinski	
+
+Deployed Application: https://kelstho.github.io/trail-mix/
