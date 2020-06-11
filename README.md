@@ -1,4 +1,4 @@
-#Project-1
+# Project-1
 
 Elevator Pitch: I’m going out for a trail ride in 30 minutes with my best friend. I need to pick a trail… We’re going to be hungry when we’re done, but I don’t know what’s around that trail. Where should I look? Trail Mix! Eat, Ride & Be Merry
 
